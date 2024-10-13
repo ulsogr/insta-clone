@@ -1,0 +1,52 @@
+body
+{
+    font-family: 'Proxima Nova', Arial, sans-serif;
+}
+
+.mt-5 
+{
+    padding-top: 3rem ;
+}
+
+a 
+{
+    text-decoration: none;
+}
+
+#post a {
+    font-size: 15px;
+    color: #c7c7c7;
+}
+
+#post a.active{
+    color: #0f0f0f;
+
+}
+#post span
+{
+    font-size: 15px;
+}
+
+h5
+{
+    font-size: 14px;
+}
+
+ #post i{
+    font-size: 22px;
+    width: 24px; 
+    height: 24px; 
+}
+
+i{
+    font-size: 22px;
+    -webkit-text-stroke:0.5px #0f0f0f;
+
+}
+nav span {
+    font-size: 16px;
+}
+
+nav span.active {
+    font-weight: bold;
+}
